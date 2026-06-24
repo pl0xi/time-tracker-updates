@@ -1,2 +1,5 @@
-# time-tracker-updates
-Public OTA update feed and artifacts for Time Tracker
+# Time Tracker Updates
+
+Public update feed for Time Tracker desktop builds.
+
+Current version: v0.1.36
