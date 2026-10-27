@@ -2,4 +2,4 @@
 
 Public update feed for Time Tracker desktop builds.
 
-Current version: v0.2.26
+Current version: v0.2.27
