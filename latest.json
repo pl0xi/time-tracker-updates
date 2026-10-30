@@ -1,17 +1,17 @@
 {
-  "version": "0.2.31",
-  "published_at": "2026-10-29T16:19:54.883679+00:00",
+  "version": "0.2.34",
+  "published_at": "2026-10-30T16:28:33.954819+00:00",
   "notes": "Built from GitHub Actions.",
   "platforms": {
     "arch-x86_64": {
       "url": "https://raw.githubusercontent.com/pl0xi/time-tracker-updates/main/time-tracker-arch-x86_64.tar.gz",
-      "sha256": "fabf35904b8675bc560f09a6067902dfa9693db200ceb6319b27aa7658bd103c",
-      "size": 10479766
+      "sha256": "0510f2b3ea72cd751d868094553b651bb3efc69383c183b78aafeaf6fa456529",
+      "size": 10484920
     },
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/pl0xi/time-tracker-updates/main/time-tracker-windows-x86_64.zip",
-      "sha256": "6447038ccd4a98c3be839a3f107aea6656d4748272c5059316968cffd7ea664c",
-      "size": 8351954
+      "sha256": "f6e2dba487cbfa9023db8abee7128ed6c36cdfe50e870dfe09c66823e1d49e74",
+      "size": 8357989
     }
   }
 }
